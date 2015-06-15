@@ -146,5 +146,8 @@ This section is only necessary if you want to import Meetup data. The app will s
 
 To import historical data from Meetup, use the rake task `rake meetup:import`. This requires you set up a MEETUP_API_KEY in your local environment, which you can find on Meetup at http://www.meetup.com/meetup_api/key/.
 
+### Installing nokogiri
+http://www.nokogiri.org/tutorials/installing_nokogiri.html#mac_os_x
+
 ## Contributors
 One billion thanks to our [super awesome contributors](https://github.com/railsbridge/bridge_troll/contributors).
